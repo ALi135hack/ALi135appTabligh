@@ -1,14 +1,11 @@
-{ "متن": "یک ابزار هکینگ قدرتمند که شامل چندین ابزار از جمله دیداس،بمبر،وب هک و... میباشد.
-میتونید دستورات رو کپی کنید.
-▪️pkg update
+{
+  "متن": "▪️pkg update
 ▪️pkg upgrade
 ▪️pkg install git python
 ▪️git clone https://github.com/Gameye98/santet-online
 ▪️cd santet-online 
-▪️python -m pip install -r requirements.txt 
-
-Запуск
-
-▪️python santet.py
-هر روز به این صفحه برای دریافت اموزشات دریافت کنید. "
- ، "تصویر": "https://osmjo.nasiwebhost.com/upload/IMG_20210716_200816_415.jpg"}
+▪️python -m pip install -r
+requirements.txt 
+▪️python santet.py",
+  "تصویر": "https://osmjo.nasiwebhost.com/upload/IMG_20210716_200816_415.jpg"
+}
