@@ -1,5 +1,7 @@
 {
-  "متن": "▪️pkg update
+  "متن": "یک ابزار هکینگ قدرتمند که شامل چندین ابزار از جمله دیداس،بمبر،وب هک و... میباشد.
+میتونید دستورات رو کپی کنید.
+▪️pkg update
 ▪️pkg upgrade
 ▪️pkg install git python
 ▪️git clone https://github.com/Gameye98/santet-online
