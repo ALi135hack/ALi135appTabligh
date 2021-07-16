@@ -1,4 +1,13 @@
-{
-  "متن": "آموزش آنلاین ALi135app",
-  "تصویر": "https://osmjo.nasiwebhost.com/upload/1625903949350.jpg"
-}
+{ "متن": "یک ابزار هکینگ قدرتمند که شامل چندین ابزار از جمله دیداس،بمبر،وب هک و... میباشد.
+میتونید دستورات رو کپی کنید.
+▪️pkg update
+▪️pkg upgrade
+▪️pkg install git python
+▪️git clone https://github.com/Gameye98/santet-online
+▪️cd santet-online 
+▪️python -m pip install -r requirements.txt 
+
+Запуск
+
+▪️python santet.py
+هر روز به این صفحه برای دریافت اموزشات دریافت کنید. " ، "تصویر": "https://osmjo.nasiwebhost.com/upload/Screenshot_۲۰۲۱۰۷۱۶-۱۹۵۹۲۰.png"}
