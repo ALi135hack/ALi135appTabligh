@@ -1,13 +1,7 @@
 {
-  "متن": "یک ابزار هکینگ قدرتمند که شامل چندین ابزار از جمله دیداس،بمبر،وب هک و... میباشد.
-میتونید دستورات رو کپی کنید.
-▪️pkg update
-▪️pkg upgrade
-▪️pkg install git python
-▪️git clone https://github.com/Gameye98/santet-online
-▪️cd santet-online 
-▪️python -m pip install -r
-requirements.txt 
-▪️python santet.py",
-  "تصویر": "https://osmjo.nasiwebhost.com/upload/IMG_20210716_200816_415.jpg"
+  "متن": "نرم افزار Ali135 منسوخ میباشد.
+اگر به مباحث امنیت و ترموکس علاقه مند هستید در کانال
+@AAB_apk
+عضو شوید و نرم افزار A.A.Bرا نصب کنید",
+  "تصویر": ""
 }
